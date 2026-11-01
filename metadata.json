@@ -1,0 +1,8 @@
+{
+  "name": "Calculadora do Heitor",
+  "description": "Calculadora, tabuada de 1 a 20 e desafios divertidos de matemática para aprender brincando.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
